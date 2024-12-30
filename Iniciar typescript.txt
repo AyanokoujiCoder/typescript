@@ -1,0 +1,26 @@
+Terminal.
+
+$ touch hello.ts
+
+Como sabemos los navegadores no pueden correr TypeScript asi que 
+tenemos que comvertir este archivo de TS a un archivo de JavaSccript.
+
+Instalamos TypeScript: $ npm i typescript
+
+Si abrimos Node_modules donde esta .bin hay un 'tsc' que es TypeScript, 
+este programa nos va a permetir combertir TS en JavaScript.
+
+La forma en la que podemos utilizar esto es con este comando: $ npx tsc hello.ts
+
+// var usuario = {
+//     nombre: 'Mr Beats',
+//     edad: 23,
+//     id: '12'
+// };
+// console.log(usuario);
+
+Aqui podemos ver que nuestro archivo de TS se ha comvertido en JS 
+y este codigo hace exactamente lo mismo que el codigo anterior 
+pero este codigo es JavaScript puro.
+Podemos crear un archivo de configuracion de TypeScript y como queremos que se compile nuestro codigo de JS
+Para eso voy a crear un archivo de configuracion: $ touch tsconfig.json

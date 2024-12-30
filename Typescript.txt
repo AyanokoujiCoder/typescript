@@ -1,0 +1,25 @@
+TypeScript es un lenguaje de programación de código abierto desarrollado por Microsoft, 
+que es un superconjunto de JavaScript. Esto significa que todo el código JavaScript válido 
+también es válido en TypeScript, pero TypeScript agrega características adicionales, como **tipado estático**. 
+
+Algunas de las características clave de TypeScript incluyen:
+
+1. **Tipado estático**: Permite definir tipos para variables, parámetros de funciones y 
+valores de retorno, lo que ayuda a detectar errores en tiempo de desarrollo y mejora la autocompletación en los editores.
+   
+2. **Interfaces y tipos personalizados**: Puedes definir interfaces y tipos personalizados 
+para objetos, lo que hace que el código sea más claro y más fácil de mantener.
+
+3. **Soporte para las últimas características de JavaScript**: TypeScript es compatible con 
+las últimas características de ECMAScript (ES6, ES7, etc.), incluso en navegadores o 
+entornos que no las soportan nativamente.
+
+4. **Compilación a JavaScript**: TypeScript se compila a JavaScript, por lo que cualquier código 
+TypeScript debe ser convertido en JavaScript antes de ejecutarse en navegadores o entornos como Node.js.
+
+El uso de TypeScript es especialmente útil en proyectos grandes, ya que facilita la gestión de 
+código complejo y reduce errores al proporcionar un sistema de tipos más robusto.
+
+https://www.typescriptlang.org/
+
+https://kinsta.com/es/base-de-conocimiento/que-es-typescript/
